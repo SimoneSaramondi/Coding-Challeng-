@@ -1,0 +1,38 @@
+body{
+  background-image: url('background.jpg');
+  background-size: cover;
+}
+div{
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  padding: 10px;
+  color: white;
+  position: absolute;
+  width: 1000px;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+header{
+  text-align: center;
+}
+nav{
+  text-align: center;
+  background-color: #00ff00;
+  padding: 10px;
+}
+hr{
+  border-radius: 5px;
+}
+#logo{
+  width: 200px;
+}
+#sottotitolo{
+  font-family: 'Indie Flower', cursive;
+  color: #00ff00;
+  font-size: 40px;
+}
+#testo{
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
